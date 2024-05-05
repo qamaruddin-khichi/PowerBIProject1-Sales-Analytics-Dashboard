@@ -1,4 +1,4 @@
-# PowerBIproject1 - Sales Analytics Dashboard
+# PowerBIProject1 - Sales Analytics Dashboard
 
 ### Table of Contents
 
